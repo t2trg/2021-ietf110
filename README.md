@@ -14,7 +14,7 @@ Register for IETF110: <https://www.ietf.org/how/meetings/register/>
 
 Slides: <https://github.com/t2trg/2021-ietf110/tree/master/slides> 
 
-Notes: <>
+Notes: <https://codimd.ietf.org/notes-ietf-110-t2trg>
 
 Repo: <https://github.com/t2trg/2021-ietf110>
 
