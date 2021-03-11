@@ -1,6 +1,6 @@
 # 2021-ietf110
 
-T2TRG virtual summary meeting -- agenda draft 0.1
+T2TRG virtual summary meeting -- agenda draft 0.2
 
 **Time:** Thursday, 2021-03-11, 16:00-18:00 UTC
 
